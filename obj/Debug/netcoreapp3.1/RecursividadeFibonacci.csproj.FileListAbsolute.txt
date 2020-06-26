@@ -1,0 +1,13 @@
+C:\Users\Dark_Cheedar\Desktop\RecursividadeFibonacci\bin\Debug\netcoreapp3.1\RecursividadeFibonacci.exe
+C:\Users\Dark_Cheedar\Desktop\RecursividadeFibonacci\bin\Debug\netcoreapp3.1\RecursividadeFibonacci.deps.json
+C:\Users\Dark_Cheedar\Desktop\RecursividadeFibonacci\bin\Debug\netcoreapp3.1\RecursividadeFibonacci.runtimeconfig.json
+C:\Users\Dark_Cheedar\Desktop\RecursividadeFibonacci\bin\Debug\netcoreapp3.1\RecursividadeFibonacci.runtimeconfig.dev.json
+C:\Users\Dark_Cheedar\Desktop\RecursividadeFibonacci\bin\Debug\netcoreapp3.1\RecursividadeFibonacci.dll
+C:\Users\Dark_Cheedar\Desktop\RecursividadeFibonacci\bin\Debug\netcoreapp3.1\RecursividadeFibonacci.pdb
+C:\Users\Dark_Cheedar\Desktop\RecursividadeFibonacci\obj\Debug\netcoreapp3.1\RecursividadeFibonacci.csprojAssemblyReference.cache
+C:\Users\Dark_Cheedar\Desktop\RecursividadeFibonacci\obj\Debug\netcoreapp3.1\RecursividadeFibonacci.AssemblyInfoInputs.cache
+C:\Users\Dark_Cheedar\Desktop\RecursividadeFibonacci\obj\Debug\netcoreapp3.1\RecursividadeFibonacci.AssemblyInfo.cs
+C:\Users\Dark_Cheedar\Desktop\RecursividadeFibonacci\obj\Debug\netcoreapp3.1\RecursividadeFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Dark_Cheedar\Desktop\RecursividadeFibonacci\obj\Debug\netcoreapp3.1\RecursividadeFibonacci.dll
+C:\Users\Dark_Cheedar\Desktop\RecursividadeFibonacci\obj\Debug\netcoreapp3.1\RecursividadeFibonacci.pdb
+C:\Users\Dark_Cheedar\Desktop\RecursividadeFibonacci\obj\Debug\netcoreapp3.1\RecursividadeFibonacci.genruntimeconfig.cache
